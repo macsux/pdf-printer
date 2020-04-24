@@ -1,0 +1,7 @@
+---
+applications:
+- name: pdf-printer
+  buildpacks:
+  - https://github.com/cloudfoundry/apt-buildpack/releases/download/v0.2.2/apt-buildpack-cflinuxfs3-v0.2.2.zip
+  - nodejs_buildpack
+    

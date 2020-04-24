@@ -1,0 +1,6 @@
+{
+    "PORT": 8080,
+    "BASE_URL": "https://pdf-printer.cfapps.io",
+    "EXPIRES_IN": 900,
+    "EXPIRE_CHECK_INTERVAL": 10
+}
